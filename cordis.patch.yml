@@ -1,0 +1,6 @@
+# Installed by `dsh plugin --profile web add github:chuanxuWei/dsh-ui-activity-inbox`.
+# The node half is intentionally inert; package.json's `dsh.client` declaration
+# supplies the browser half that mounts the Activity Inbox.
+- insert:
+    - id: ui-activity-inbox
+      name: dsh-ui-activity-inbox
